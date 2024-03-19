@@ -20,6 +20,7 @@ Sirve para cambiar de rama y ver el contenido de tu carpeta.
 Segun Pro Git 2da edicion (2014),el comando git checkout se usa para cambiar de rama y revisar el contenido de tu directorio de trabajo.
 ## Git Fork
 Sirve como para clonar un repositoria a un repositorio tuyo
+
 Segun Platzi (s.f),Los forks o bifurcaciones son una característica única de GitHub en la que se crea una copia exacta del estado actual de un repositorio directamente en GitHub. Este repositorio podrá servir como otro origen y se podrá clonar (como cualquier otro repositorio). 
 ## Git merge
 Sirve para mezclar ramas y sus cambios
